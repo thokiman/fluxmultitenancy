@@ -4,3 +4,4 @@ namespace: default
 resources:
   - nginx-ingress-controller.yaml
   - weave-gitops-dashboard.yaml
+  - sealedsecrets.yaml
